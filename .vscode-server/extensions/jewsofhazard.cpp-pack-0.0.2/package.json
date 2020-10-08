@@ -1,0 +1,25 @@
+{
+	"name": "cpp-pack",
+	"displayName": "cpp-pack",
+	"description": "This is a grouping of helpful tools for C++",
+	"version": "0.0.2",
+	"publisher": "jewsofhazard",
+	"engines": {
+		"vscode": "^1.10.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionDependencies": [
+		"formulahendry.code-runner",
+		"ms-vscode.cpptools",
+		"hars.CppSnippets",
+		"austin.code-gnu-global",
+		"vector-of-bool.cmake-tools"
+	],
+	"__metadata": {
+		"id": "64b24de0-dcfe-41c7-8408-9e9f9bb03a6c",
+		"publisherId": "18d6bd4f-2290-483b-a833-a4a1acb66cca",
+		"publisherDisplayName": "JewsOfHazard"
+	}
+}

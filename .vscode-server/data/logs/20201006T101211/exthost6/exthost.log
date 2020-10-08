@@ -1,0 +1,44 @@
+[2020-10-06 20:17:04.572] [exthost] [info] extension host started
+[2020-10-06 20:17:04.825] [exthost] [info] ExtensionService#_doActivateExtension austin.code-gnu-global {"startup":false,"extensionId":{"value":"austin.code-gnu-global","_lower":"austin.code-gnu-global"},"activationEvent":"onLanguage:cpp"}
+[2020-10-06 20:17:04.826] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/NETID/yaoa/.vscode-server/extensions/austin.code-gnu-global-0.2.2/out/src/extension
+[2020-10-06 20:17:04.855] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"onLanguage:cpp"}
+[2020-10-06 20:17:04.856] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/NETID/yaoa/.vscode-server/extensions/ms-vscode.cpptools-1.0.1/dist/main
+[2020-10-06 20:17:04.936] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-10-06 20:17:04.936] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/NETID/yaoa/.vscode-server/bin/2af051012b66169dde0c4dfae3f5ef48f787ff69/extensions/debug-auto-launch/dist/extension
+[2020-10-06 20:17:04.939] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-10-06 20:17:04.939] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/NETID/yaoa/.vscode-server/bin/2af051012b66169dde0c4dfae3f5ef48f787ff69/extensions/emmet/dist/node/emmetNodeMain
+[2020-10-06 20:17:04.967] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-10-06 20:17:04.967] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/NETID/yaoa/.vscode-server/bin/2af051012b66169dde0c4dfae3f5ef48f787ff69/extensions/git/dist/main
+[2020-10-06 20:17:05.013] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-10-06 20:17:05.013] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/NETID/yaoa/.vscode-server/bin/2af051012b66169dde0c4dfae3f5ef48f787ff69/extensions/merge-conflict/dist/mergeConflictMain
+[2020-10-06 20:17:05.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-10-06 20:17:05.016] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/NETID/yaoa/.vscode-server/bin/2af051012b66169dde0c4dfae3f5ef48f787ff69/extensions/search-result/dist/extension.js
+[2020-10-06 20:17:05.068] [exthost] [info] Extension 'austin.code-gnu-global' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-10-06 20:17:05.134] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-10-06 20:17:05.134] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/NETID/yaoa/.vscode-server/bin/2af051012b66169dde0c4dfae3f5ef48f787ff69/extensions/github/dist/extension.js
+[2020-10-06 20:17:05.146] [exthost] [warning] [Deprecation Warning] 'workspace.rootPath' is deprecated. Please use 'workspace.workspaceFolders' instead. More details: https://aka.ms/vscode-eliminating-rootpath
+[2020-10-06 20:17:05.186] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2020-10-06 20:17:05.186] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/NETID/yaoa/.vscode-server/extensions/esbenp.prettier-vscode-5.7.1/dist/extension
+[2020-10-06 20:17:05.288] [exthost] [info] eager extensions activated
+[2020-10-06 20:17:05.434] [exthost] [info] Extension 'esbenp.prettier-vscode' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-10-06 20:17:17.970] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-10-06 20:17:17.970] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/NETID/yaoa/.vscode-server/bin/2af051012b66169dde0c4dfae3f5ef48f787ff69/extensions/configuration-editing/dist/configurationEditingMain
+[2020-10-06 20:17:17.974] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-10-06 20:17:17.975] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/NETID/yaoa/.vscode-server/bin/2af051012b66169dde0c4dfae3f5ef48f787ff69/extensions/extension-editing/dist/extensionEditingMain
+[2020-10-06 20:17:17.986] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-10-06 20:17:17.986] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/NETID/yaoa/.vscode-server/bin/2af051012b66169dde0c4dfae3f5ef48f787ff69/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-10-06 20:17:18.019] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onLanguage:json"}
+[2020-10-06 20:17:18.019] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/NETID/yaoa/.vscode-server/bin/2af051012b66169dde0c4dfae3f5ef48f787ff69/extensions/ms-vscode.js-debug/src/extension.js
+[2020-10-06 20:17:18.374] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-10-06 20:17:18.374] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/NETID/yaoa/.vscode-server/bin/2af051012b66169dde0c4dfae3f5ef48f787ff69/extensions/npm/dist/npmMain
+[2020-10-06 20:18:17.635] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-10-06 20:18:17.636] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/NETID/yaoa/.vscode-server/bin/2af051012b66169dde0c4dfae3f5ef48f787ff69/extensions/typescript-language-features/dist/extension
+[2020-10-06 20:19:11.285] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-10-06 20:19:11.285] [exthost] [error] undefined
+[2020-10-06 20:19:16.912] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-10-06 20:19:16.912] [exthost] [error] undefined
+[2020-10-06 20:20:24.195] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-10-06 20:20:24.195] [exthost] [error] undefined
+[2020-10-06 20:21:10.856] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2020-10-06 20:21:10.856] [exthost] [error] undefined
+[2020-10-06 20:21:12.359] [exthost] [warning] ms-vscode.cpptools - Code actions of kind 'quickfix 'requested but returned code action does not have a 'kind'. Code action will be dropped. Please set 'CodeAction.kind'.

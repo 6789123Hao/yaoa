@@ -1,0 +1,100 @@
+[2020-10-06 10:12:11.395] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-10-06 10:12:11.395] [remoteagent] [info] Extension host agent started.
+[2020-10-06 10:12:14.632] [remoteagent] [info] [127.0.0.1][5c5c0674][ManagementConnection] New connection established.
+[2020-10-06 10:12:14.637] [remoteagent] [info] [127.0.0.1][0b76759a][ExtensionHostConnection] New connection established.
+[2020-10-06 10:12:14.779] [remoteagent] [info] [127.0.0.1][0b76759a][ExtensionHostConnection] <15851> Launched Extension Host Process.
+[2020-10-06 10:12:58.607] [remoteagent] [info] [127.0.0.1][5c5c0674][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-10-06 10:12:59.639] [remoteagent] [info] [127.0.0.1][0b76759a][ExtensionHostConnection] <15851> Extension Host Process exited with code: 0, signal: null.
+[2020-10-06 10:12:59.640] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-10-06 10:13:04.981] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-10-06 10:13:04.981] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-10-06 10:13:05.100] [remoteagent] [info] [127.0.0.1][d3ed877f][ManagementConnection] New connection established.
+[2020-10-06 10:13:05.101] [remoteagent] [info] [127.0.0.1][bea9ff3c][ExtensionHostConnection] New connection established.
+[2020-10-06 10:13:05.118] [remoteagent] [info] [127.0.0.1][bea9ff3c][ExtensionHostConnection] <15950> Launched Extension Host Process.
+[2020-10-06 10:14:54.553] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2020-10-06 10:14:54.748] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools /home/NETID/yaoa/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-1.0.1
+[2020-10-06 10:14:56.362] [remoteagent] [info] Extracted extension to /home/NETID/yaoa/.vscode-server/extensions/.ms-vscode.cpptools-1.0.1: ms-vscode.cpptools
+[2020-10-06 10:14:56.367] [remoteagent] [info] Renamed to /home/NETID/yaoa/.vscode-server/extensions/ms-vscode.cpptools-1.0.1
+[2020-10-06 10:14:56.372] [remoteagent] [info] Installation completed. ms-vscode.cpptools
+[2020-10-06 10:14:56.382] [remoteagent] [info] Extensions installed successfully: ms-vscode.cpptools
+[2020-10-06 10:15:06.660] [remoteagent] [info] [127.0.0.1][d3ed877f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-10-06 10:15:07.672] [remoteagent] [info] [127.0.0.1][bea9ff3c][ExtensionHostConnection] <15950> Extension Host Process exited with code: 0, signal: null.
+[2020-10-06 10:15:07.672] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-10-06 10:15:07.672] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-10-06 10:15:13.891] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-10-06 10:15:13.891] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-10-06 10:15:14.027] [remoteagent] [info] [127.0.0.1][e0bb4a01][ManagementConnection] New connection established.
+[2020-10-06 10:15:14.028] [remoteagent] [info] [127.0.0.1][8133b864][ExtensionHostConnection] New connection established.
+[2020-10-06 10:15:14.056] [remoteagent] [info] [127.0.0.1][8133b864][ExtensionHostConnection] <16104> Launched Extension Host Process.
+[2020-10-06 10:20:13.893] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-10-06 10:50:19.234] [remoteagent] [info] Installing extension: jewsofhazard.cpp-pack
+[2020-10-06 10:50:19.612] [remoteagent] [info] Downloaded extension: jewsofhazard.cpp-pack /home/NETID/yaoa/.vscode-server/data/CachedExtensionVSIXs/jewsofhazard.cpp-pack-0.0.2
+[2020-10-06 10:50:19.681] [remoteagent] [info] Extracted extension to /home/NETID/yaoa/.vscode-server/extensions/.jewsofhazard.cpp-pack-0.0.2: jewsofhazard.cpp-pack
+[2020-10-06 10:50:19.685] [remoteagent] [info] Renamed to /home/NETID/yaoa/.vscode-server/extensions/jewsofhazard.cpp-pack-0.0.2
+[2020-10-06 10:50:19.690] [remoteagent] [info] Installation completed. jewsofhazard.cpp-pack
+[2020-10-06 10:50:19.799] [remoteagent] [info] Installing extension: formulahendry.code-runner
+[2020-10-06 10:50:19.802] [remoteagent] [info] Installing extension: austin.code-gnu-global
+[2020-10-06 10:50:19.805] [remoteagent] [info] Installing extension: hars.cppsnippets
+[2020-10-06 10:50:19.985] [remoteagent] [info] Downloaded extension: hars.cppsnippets /home/NETID/yaoa/.vscode-server/data/CachedExtensionVSIXs/hars.cppsnippets-0.0.14
+[2020-10-06 10:50:20.019] [remoteagent] [info] Downloaded extension: formulahendry.code-runner /home/NETID/yaoa/.vscode-server/data/CachedExtensionVSIXs/formulahendry.code-runner-0.11.0
+[2020-10-06 10:50:20.030] [remoteagent] [info] Downloaded extension: austin.code-gnu-global /home/NETID/yaoa/.vscode-server/data/CachedExtensionVSIXs/austin.code-gnu-global-0.2.2
+[2020-10-06 10:50:20.091] [remoteagent] [info] Extracted extension to /home/NETID/yaoa/.vscode-server/extensions/.hars.cppsnippets-0.0.14: hars.cppsnippets
+[2020-10-06 10:50:20.095] [remoteagent] [info] Renamed to /home/NETID/yaoa/.vscode-server/extensions/hars.cppsnippets-0.0.14
+[2020-10-06 10:50:20.098] [remoteagent] [info] Installation completed. hars.cppsnippets
+[2020-10-06 10:50:20.107] [remoteagent] [info] Extensions installed successfully: hars.cppsnippets
+[2020-10-06 10:50:20.676] [remoteagent] [info] Extracted extension to /home/NETID/yaoa/.vscode-server/extensions/.austin.code-gnu-global-0.2.2: austin.code-gnu-global
+[2020-10-06 10:50:20.682] [remoteagent] [info] Renamed to /home/NETID/yaoa/.vscode-server/extensions/austin.code-gnu-global-0.2.2
+[2020-10-06 10:50:20.686] [remoteagent] [info] Installation completed. austin.code-gnu-global
+[2020-10-06 10:50:20.695] [remoteagent] [info] Extensions installed successfully: austin.code-gnu-global
+[2020-10-06 10:50:21.643] [remoteagent] [info] Extracted extension to /home/NETID/yaoa/.vscode-server/extensions/.formulahendry.code-runner-0.11.0: formulahendry.code-runner
+[2020-10-06 10:50:21.648] [remoteagent] [info] Renamed to /home/NETID/yaoa/.vscode-server/extensions/formulahendry.code-runner-0.11.0
+[2020-10-06 10:50:21.653] [remoteagent] [info] Installation completed. formulahendry.code-runner
+[2020-10-06 10:50:21.662] [remoteagent] [info] Extensions installed successfully: formulahendry.code-runner
+[2020-10-06 10:50:21.665] [remoteagent] [info] Extensions installed successfully: jewsofhazard.cpp-pack
+[2020-10-06 10:50:23.936] [remoteagent] [info] [127.0.0.1][e0bb4a01][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-10-06 10:50:25.011] [remoteagent] [info] [127.0.0.1][8133b864][ExtensionHostConnection] <16104> Extension Host Process exited with code: 0, signal: null.
+[2020-10-06 10:50:25.011] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-10-06 10:50:31.426] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-10-06 10:50:31.426] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-10-06 10:50:31.556] [remoteagent] [info] [127.0.0.1][216f3c50][ManagementConnection] New connection established.
+[2020-10-06 10:50:31.557] [remoteagent] [info] [127.0.0.1][c1343f76][ExtensionHostConnection] New connection established.
+[2020-10-06 10:50:31.573] [remoteagent] [info] [127.0.0.1][c1343f76][ExtensionHostConnection] <17144> Launched Extension Host Process.
+[2020-10-06 10:55:31.426] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-10-06 19:10:05.956] [remoteagent] [info] [127.0.0.1][216f3c50][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-10-06 19:10:07.078] [remoteagent] [info] [127.0.0.1][c1343f76][ExtensionHostConnection] <17144> Extension Host Process exited with code: 0, signal: null.
+[2020-10-06 19:10:07.078] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-10-06 19:10:12.498] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-10-06 19:10:12.498] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-10-06 19:10:12.613] [remoteagent] [info] [127.0.0.1][1ac6f0fa][ManagementConnection] New connection established.
+[2020-10-06 19:10:12.617] [remoteagent] [info] [127.0.0.1][24b22b4f][ExtensionHostConnection] New connection established.
+[2020-10-06 19:10:12.634] [remoteagent] [info] [127.0.0.1][24b22b4f][ExtensionHostConnection] <5540> Launched Extension Host Process.
+[2020-10-06 19:15:12.499] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-10-06 20:16:49.453] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2020-10-06 20:16:49.649] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode /home/NETID/yaoa/.vscode-server/data/CachedExtensionVSIXs/esbenp.prettier-vscode-5.7.1
+[2020-10-06 20:16:50.246] [remoteagent] [info] Extracted extension to /home/NETID/yaoa/.vscode-server/extensions/.esbenp.prettier-vscode-5.7.1: esbenp.prettier-vscode
+[2020-10-06 20:16:50.250] [remoteagent] [info] Renamed to /home/NETID/yaoa/.vscode-server/extensions/esbenp.prettier-vscode-5.7.1
+[2020-10-06 20:16:50.255] [remoteagent] [info] Installation completed. esbenp.prettier-vscode
+[2020-10-06 20:16:50.264] [remoteagent] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-10-06 20:16:53.734] [remoteagent] [info] [127.0.0.1][1ac6f0fa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-10-06 20:16:54.766] [remoteagent] [info] [127.0.0.1][24b22b4f][ExtensionHostConnection] <5540> Extension Host Process exited with code: 0, signal: null.
+[2020-10-06 20:16:54.766] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-10-06 20:17:00.673] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-10-06 20:17:00.673] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-10-06 20:17:00.780] [remoteagent] [info] [127.0.0.1][4ec0c008][ManagementConnection] New connection established.
+[2020-10-06 20:17:00.780] [remoteagent] [info] [127.0.0.1][ab74d494][ExtensionHostConnection] New connection established.
+[2020-10-06 20:17:00.796] [remoteagent] [info] [127.0.0.1][ab74d494][ExtensionHostConnection] <9531> Launched Extension Host Process.
+[2020-10-06 20:22:00.675] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-10-06 23:07:31.937] [remoteagent] [info] [127.0.0.1][4ec0c008][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-10-07 02:07:25.101] [remoteagent] [info] [127.0.0.1][ab74d494][ExtensionHostConnection] <9531> Extension Host Process exited with code: 0, signal: null.
+[2020-10-07 02:07:25.102] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-10-07 02:07:31.937] [remoteagent] [info] [127.0.0.1][4ec0c008][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2020-10-07 02:12:25.107] [remoteagent] [info] Last EH closed, shutting down

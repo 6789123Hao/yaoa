@@ -1,0 +1,26 @@
+Looking for git in: git
+Using git 2.24.1 from git
+> git init
+> git rev-parse --git-dir
+Open repository: /home/NETID/yaoa
+> git status -z -u
+> git show --textconv :CardReader.cpp
+> git ls-files --stage -- /home/NETID/yaoa/CardReader.cpp
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Hello.cpp
+> git ls-files --stage -- /home/NETID/yaoa/Hello.cpp
+> git check-ignore -v -z --stdin
+> git show --textconv :CardReader.cpp
+> git ls-files --stage -- /home/NETID/yaoa/CardReader.cpp
